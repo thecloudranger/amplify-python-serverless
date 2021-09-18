@@ -45,4 +45,4 @@ Adding backend environment dev to AWS Amplify Console app: d2gltg2gizyktk
 
 ```
 
-In the [next step](), let's add a DynamoDB database to the project. 
+In the [next step](./steps/python-lambda/02-add-storage.md), let's add a DynamoDB database to the project. 
