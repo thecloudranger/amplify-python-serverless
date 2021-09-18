@@ -1,6 +1,6 @@
 # Python serverless with AWS Amplify CLI
 
-This workshop shows how to get started with the [AWS Amplify CLI]() and how you can build and deploy Python serveless apps on AWS using it.
+This workshop shows how to get started with the [AWS Amplify CLI](https://aws.amazon.com/amplify/) and how you can build and deploy Python serveless apps on AWS using it.
 
 ## Prerequisites
 
