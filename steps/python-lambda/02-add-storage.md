@@ -48,5 +48,5 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Core
 
 Lets deploy our database by running `amplify push-y`.
 
-In the [next step](./steps/python-lambda/03-add-api-lambda-function.md), let's add an API and a function to the project. 
+In the [next step](./03-add-api-lambda-function.md), let's add an API and a function to the project. 
 
