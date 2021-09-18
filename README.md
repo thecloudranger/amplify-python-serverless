@@ -63,5 +63,4 @@ The steps for this workshop are:
 
 ### Fargate (serverless container) based   
 1. [Initialize Amplify](./steps/python-fargate/01-initialize-amplify.md)
-2. [Containerize Python app](./steps/python-fargate/02-containerize-python-app.md)
-3. [Deploy with Amplify](./steps/python-fargate/03-deploy-with-amplify.md)
+2. [Containerize Python app and deploy](./steps/python-fargate/02-containerize-python-app.md)
