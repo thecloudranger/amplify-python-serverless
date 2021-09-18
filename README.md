@@ -6,6 +6,7 @@ This workshop shows how to get started with the [AWS Amplify CLI]() and how you 
 
 To complete this workshop, you will need:
 
+
 * [Python 3](https://www.python.org/downloads/). Ensure the python version installed is >=3.8.
   
   > If you are using Windows you will need to restart your machine after installing to ensure you can use Python and Pip from the command line.
@@ -14,7 +15,15 @@ To complete this workshop, you will need:
 * [Pipenv](https://pipenv.pypa.io/en/latest/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * The [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python). This can be installed from inside VS Code using the *Extensions* tab.
+* [NodeJS](https://nodejs.org/)
 * A laptop/PC (with internet connection for intial setup).
+* An AWS account.
+* Install the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/).
+* If you don't have an IAM user for AWS SDK access, you can configure with
+```
+amplify configure
+```
+
 
 This workshop works on MacOS and Windows.
 
