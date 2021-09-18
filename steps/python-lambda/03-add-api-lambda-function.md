@@ -51,4 +51,4 @@ Successfully added resource carapi locally.
 
 Run `amplify push-y` to deploy. This will create a new API Gateway endpoint with the base as `car` that will in-turn route any HTTP reuests to a Lambda function that will host our Python code.
 
-In the [next step](./steps/python-lambda/04-edit-deploy-flask-app.md), let's setup our Flask app on Lambda. 
+In the [next step](./04-edit-deploy-flask-app.md), let's setup our Flask app on Lambda. 
