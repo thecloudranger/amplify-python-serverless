@@ -33,6 +33,8 @@ def handler(event, context):
 Next, lets add our first route before the handler.
 
 ```python
+BASE_ROUTE="/car"
+
 @app.route(BASE_ROUTE, methods=['GET'])
 def list_cars():
   return jsonify(message="hello world")
