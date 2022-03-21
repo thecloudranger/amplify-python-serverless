@@ -3,6 +3,16 @@
 Let's add code to connect with DynamomDB and edit the `list_cars` function to query the DynamoDB table for a list of cars.
 
 ```python
+import awsgi
+import os
+from uuid import uuid4
+from flask import Flask, jsonify, request
+from flask_cors import CORS
+
+import boto3
+
+app = Flask(__name__)
+CORS(app)
 
 client = boto3.client("dynamodb")
 TABLE = os.environ.get("STORAGE_CARSTORAGE_NAME")
